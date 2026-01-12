@@ -1,4 +1,4 @@
-# Iris Classification: Model Comparison
+# Real Estate pricing: Model Comparison
 
 ## Research Question
 How do variations in material prices influence real estate prices?
